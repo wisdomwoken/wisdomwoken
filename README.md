@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wisdomwoken
-- 👀 I’m interested in cats, programming and all things technology
-- 🌱 I’m currently learning privacy, blockchain and mining
-- 💞️ I’m looking to collaborate on anything that catches my interest
-- 📫 How to reach me: draw a summoning circle
+- 👋 Hi, I’m Minerva!
+- 👀 I’m interested in cats, programming and all things technology.
+- 🌱 I’m currently learning privacy, blockchain and mining.
+- 💞️ I’m looking to collaborate on anything that catches my interest.
+- 📫 How to reach me: draw a summoning circle.
